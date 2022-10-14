@@ -33,11 +33,11 @@
     ],
     "comunas": [
         {
-            "id_Comuna": 1,
+            "id": 1,
             "descripcion": "Huechuraba"
         },
         {
-            "id_Comuna": 2,
+            "id": 2,
             "descripcion": "Puente Alto"
         }
     ]
