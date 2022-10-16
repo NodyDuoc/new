@@ -30,15 +30,5 @@
             "id_usuario": 1,
             "marca": "BMW"
         }
-    ],
-    "comunas": [
-        {
-            "id": 1,
-            "descripcion": "Huechuraba"
-        },
-        {
-            "id": 2,
-            "descripcion": "Puente Alto"
-        }
     ]
 }
